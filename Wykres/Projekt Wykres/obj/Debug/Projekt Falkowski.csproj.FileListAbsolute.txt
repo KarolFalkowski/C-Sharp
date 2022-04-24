@@ -1,0 +1,11 @@
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr II\PP\Projekt Falkowski\Projekt Falkowski\bin\Debug\Projekt Falkowski.exe.config
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr II\PP\Projekt Falkowski\Projekt Falkowski\bin\Debug\Projekt Falkowski.exe
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr II\PP\Projekt Falkowski\Projekt Falkowski\bin\Debug\Projekt Falkowski.pdb
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr II\PP\Projekt Falkowski\Projekt Falkowski\obj\Debug\Projekt Falkowski.csprojAssemblyReference.cache
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr II\PP\Projekt Falkowski\Projekt Falkowski\obj\Debug\Projekt_Falkowski.Form1.resources
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr II\PP\Projekt Falkowski\Projekt Falkowski\obj\Debug\Projekt_Falkowski.Properties.Resources.resources
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr II\PP\Projekt Falkowski\Projekt Falkowski\obj\Debug\Projekt Falkowski.csproj.GenerateResource.cache
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr II\PP\Projekt Falkowski\Projekt Falkowski\obj\Debug\Projekt Falkowski.csproj.CoreCompileInputs.cache
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr II\PP\Projekt Falkowski\Projekt Falkowski\obj\Debug\Projekt Falkowski.exe
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr II\PP\Projekt Falkowski\Projekt Falkowski\obj\Debug\Projekt Falkowski.pdb
+C:\Users\karol\OneDrive\Pulpit\Studia\Semestr II\PP\Projekt Falkowski\Projekt Falkowski\obj\Debug\Projekt_Falkowski.Form2.resources
