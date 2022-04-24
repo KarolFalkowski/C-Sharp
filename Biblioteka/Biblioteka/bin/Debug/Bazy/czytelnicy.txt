@@ -1,0 +1,30 @@
+Id
+Imie
+Nazwisko
+Ilośc wypożyczonych
+Data wypożyczenia
+1
+Karol
+Falko
+2 
+29.10.2020
+2
+Jan
+Kowal
+1
+27.01.2021
+3
+Bartek
+Jak
+5
+30.11.2020
+4
+Kuba
+Gruz
+1
+12.01.2008
+5
+Bogdan
+Adamecki
+2
+01.01.2021

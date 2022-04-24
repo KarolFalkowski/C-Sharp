@@ -1,0 +1,16 @@
+Id
+Autor
+Tytuł
+Dostępne sztuki
+1
+Karol Darwin
+Ewolucja Człowieka
+4
+2
+Adnrzej Sapkowski
+Wiedzmin
+1
+3
+Adam Mickiewicz
+Pan Tadeusz
+10
